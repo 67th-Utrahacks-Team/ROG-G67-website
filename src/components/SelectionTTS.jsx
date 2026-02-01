@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { TiVolumeUp } from "react-icons/ti";
 
-const DEFAULT_VOICE_ID = "21m00Tcm4TlvDq8ikWAM";
+const DEFAULT_VOICE_ID = "gU0LNdkMOQCOrPrwtbee";
 const DEFAULT_MODEL_ID = "eleven_multilingual_v2";
 
 const normalizeSelectedText = (text) => {
